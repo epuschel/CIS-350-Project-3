@@ -1,0 +1,18 @@
+card 5 H
+card J D
+card 4 C
+card 2 H
+card 5 S
+card 2 C
+card 7 H
+card A S
+card 5 H
+card J D
+card 4 C
+card 2 H
+card 5 S
+card 2 C
+card 7 H
+card A S
+sort
+print
